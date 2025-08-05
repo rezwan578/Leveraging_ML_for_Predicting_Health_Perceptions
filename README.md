@@ -5,7 +5,7 @@ Association  for  Information  Systems  (AIS)**
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This repository accompanies a research paper that uses interpretable machine learning to identify key predictors of **self-reported health (SRH)** among American adults, using data from the **2023 Behavioral Risk Factor Surveillance System (BRFSS)**.
 
@@ -13,7 +13,7 @@ The work emphasizes the importance of **behavioral and socio-economic** factors 
 
 ---
 
-## 📄 Abstract (Summary)
+## Abstract (Summary)
 
 This study applies machine learning to identify the key predictors of self-reported health (SRH) among U.S. adults using the 2023 BRFSS dataset. Five models were evaluated: **Logistic Regression, Random Forest, XGBoost, Decision Tree**, and a **Stacked ensemble**. 
 
@@ -21,11 +21,11 @@ To address class imbalance, **Edited Nearest Neighbors (ENN)**, **SMOTE**, and *
 
 **SHAP and feature importance analysis** revealed that income, employment status, physical activity, and mental health status were stronger predictors than traditional risk factors like smoking or heavy drinking. The results are interpreted using the **Social Determinants of Health (SDOH)** and **Health Belief Model (HBM)** frameworks.
 
-> 🎯 **Key Insight**: Behavioral and socio-economic variables outweigh clinical and lifestyle risks in shaping health perception.
+> **Key Insight**: Behavioral and socio-economic variables outweigh clinical and lifestyle risks in shaping health perception.
 
 ---
 
-## 🧪 Methods (High-Level)
+## Methods (High-Level)
 
 - **Dataset**: BRFSS 2023 (CDC)
 - **Preprocessing**: Feature selection, missing value handling
@@ -41,25 +41,18 @@ To address class imbalance, **Edited Nearest Neighbors (ENN)**, **SMOTE**, and *
 
 ---
 
-## 🔐 Repository Notice
+## Repository Notice
 
 Parts of the codebase and complete pipeline will be shared after the official presentation to preserve originality and intellectual contribution. The goal is to maintain academic integrity and avoid premature duplication.
 
 ---
 
-## 🏷️ Keywords
+## Keywords
 
 `Self-reported Health` · `BRFSS` · `Machine Learning` · `Class Imbalance` · `Health Analytics` · `Behavioral Data`
 
----
-
-## 📚 Citation
-
-If citing this work:
-
-> Ahmed, R. (2025). *Leveraging Machine Learning for Predicting Health Perceptions: A Behavioral Analytics Approach Using U.S. National Survey Data*. Proceedings of the 25th International Conference on Electronic Business (ICEB 2025).
 
 ---
 
-## 📁 Repository Structure (Coming Soon)
+## Repository Structure (Coming Soon)
 
