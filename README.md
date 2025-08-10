@@ -29,7 +29,7 @@ To address class imbalance, **Edited Nearest Neighbors (ENN)**, **SMOTE**, and *
 
 - **Dataset**: BRFSS 2023 (CDC)
 - **Preprocessing**: Feature selection, missing value handling
-- **Class Balancing**: ENN, SMOTE, Repeated Undersampling
+- **Class Balancing**: ENN, SMOTE, SMOTEEN, and Repeated Undersampling
 - **Models Used**:
   - Logistic Regression
   - Decision Tree
