@@ -43,7 +43,7 @@ To address class imbalance, **Edited Nearest Neighbors (ENN)**, **SMOTE**, and *
 
 ## Repository Notice
 
-Parts of the codebase and complete pipeline will be shared after the official presentation to preserve originality and intellectual contribution. The goal is to maintain academic integrity and avoid premature duplication.
+Parts of the codebase and complete structure will be shared after the official presentation to preserve originality and intellectual contribution. The goal is to maintain academic integrity and avoid premature duplication.
 
 ---
 
