@@ -1,6 +1,6 @@
 # Leveraging Machine Learning for Predicting Health Perceptions: A Behavioral Analytics Approach Using U.S. National Survey Data    
  
-***Accepted at the 25th International Conference on Electronic Business (ICEB 2025),  affiliated  with  the 
+***Published by the 25th International Conference on Electronic Business (ICEB 2025),  affiliated  with  the 
 Association  for  Information  Systems  (AIS)***
 
 ---
@@ -37,13 +37,13 @@ To address class imbalance, **Edited Nearest Neighbors (ENN)**, **SMOTE**, and *
   - XGBoost
   - Stacked Ensemble Model
 - **Interpretability**: SHAP values, Feature Importances
-- **Evaluation Metric**: AUC
+- **Evaluation Metric**: AUC-ROC, Precision, Recall, F1-score.
 
 ---
 
-## Repository Notice
+## Article Access Link
 
-Parts of the codebase and complete structure will be shared after the official presentation to preserve originality and intellectual contribution. The goal is to maintain academic integrity and avoid premature duplication.
+https://aisel.aisnet.org/iceb2025/1/
 
 ---
 
