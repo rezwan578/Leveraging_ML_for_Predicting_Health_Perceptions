@@ -62,7 +62,7 @@ All models are implemented with scikit-learn / XGBoost APIs in Python 3.11.
 - Decision Tree (depth-constrained with CV).
 - Stacked Ensemble (LR, RF, XGB, DT, KNN as base learners with LR meta-learner).
 
-### Model performance
+Model performance:
 
 | Model              | AUC  | Precision | Recall | F1-score |
 |--------------------|:----:|:---------:|:------:|:--------:|
@@ -74,12 +74,12 @@ All models are implemented with scikit-learn / XGBoost APIs in Python 3.11.
 
 
 
-# Interpretation & key findings
+## Interpretation & key findings
 - Top predictors: poor mental health days, exercise, income, employment, and diabetes show the strongest influence on self-rated health in SHAP analysis.
 - Behavioral and socioeconomic factors (mental health, physical activity, income, employment) dominate over traditional clinical risk behaviours like smoking or heavy drinking for perceived health.
 - Under Social Determinants of Health (SDOH) and Health Belief Model (HBM), results highlight how lived social context and beliefs shape perceived health beyond purely clinical status.
 
-# Academic & portfolio use
+## Academic & portfolio use
 - Applied health analytics on large-scale national survey data (BRFSS 2023).
 - Handling severe class imbalance with multiple resampling techniques.
 - Building interpretable models with logistic regression and SHAP, alongside stronger ensembles.
