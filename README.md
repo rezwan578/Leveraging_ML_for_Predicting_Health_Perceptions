@@ -26,7 +26,6 @@ The work emphasizes the importance of **behavioral and socio-economic** factors 
 ## Repository structure
 
 ML_model_train.ipynb – Main notebook containing:
----
 
 - BRFSS 2023 loading and preprocessing (selection of 19 features, cleaning, encoding).​
 - Multiple balancing strategies: SMOTE, ENN, SMOTE-ENN, and repeated under-sampling.​
@@ -34,9 +33,6 @@ ML_model_train.ipynb – Main notebook containing:
 - Evaluation: confusion matrices, classification reports, cross-validated AUC/F1, and ROC curves.​
 - SHAP-based interpretation for feature importance and directional effects.
 
-Leveraging-Machine-Learning-for-Predicting-Health-Perceptions.pdf – Published ICEB 2025 paper describing the theoretical framing, methodology, and empirical findings.
-
----
 
 ## Methods and models
 
