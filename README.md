@@ -36,12 +36,14 @@ ML_model_train.ipynb – Main notebook containing:
 
 ## Methods and models
 
-Data & target:
+**Data & target**
+
 - Source: 2023 BRFSS (Behavioral Risk Factor Surveillance System), 433,324 records and 350+ attributes; after cleaning, 117,386 records are used.
 - Target: Self-rated general health recoded to binary – “Good” (excellent/very good/good) vs “Poor” (fair/poor).
 - Predictors (19 features): age group, sex, race/ethnicity, education, income, employment, exercise, smoking, heavy drinking, diabetes, heart attack, stroke, cancer, BMI category, depression, days of poor mental health, healthcare provider, and checkup regularity.
 
-**Handling class imbalance:**
+**Handling class imbalance**
+
 Class distribution is skewed (≈76% good vs 24% poor health), so multiple strategies are evaluated.
 Implemented in the notebook:
 - SMOTE oversampling.
@@ -51,7 +53,8 @@ Implemented in the notebook:
 
 Repeated under-sampling yields the most balanced F1 for both classes and is used in the final models.
 
-# Models
+**Models**
+
 All models are implemented with scikit-learn / XGBoost APIs in Python 3.11.
 - Logistic Regression (baseline and cross-validated).
 - Random Forest (with class weights and CV).
