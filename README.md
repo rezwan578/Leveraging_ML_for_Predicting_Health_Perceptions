@@ -42,6 +42,8 @@ ML_model_train.ipynb – Main notebook containing:
 - Target: Self-rated general health recoded to binary – “Good” (excellent/very good/good) vs “Poor” (fair/poor).
 - Predictors (19 features): age group, sex, race/ethnicity, education, income, employment, exercise, smoking, heavy drinking, diabetes, heart attack, stroke, cancer, BMI category, depression, days of poor mental health, healthcare provider, and checkup regularity.
 
+
+
 **Handling class imbalance**
 
 Class distribution is skewed (≈76% good vs 24% poor health), so multiple strategies are evaluated.
@@ -85,7 +87,7 @@ Model performance:
 - Building interpretable models with logistic regression and SHAP, alongside stronger ensembles.
 - Connecting ML results to public health theory (SDOH and HBM) in a peer-reviewed conference paper.
 
-If you use this project in academic work, please cite the journal paper. You can also access it online at - https://aisel.aisnet.org/iceb2025/1/
+If you use this project in academic work, please cite the journal paper. You can access it online at - https://aisel.aisnet.org/iceb2025/1/
 
 ---
 
