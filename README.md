@@ -36,7 +36,7 @@ ML_model_train.ipynb – Main notebook containing:
 
 ## Methods and models
 
-# Data & target:
+Data & target:
 - Source: 2023 BRFSS (Behavioral Risk Factor Surveillance System), 433,324 records and 350+ attributes; after cleaning, 117,386 records are used.
 - Target: Self-rated general health recoded to binary – “Good” (excellent/very good/good) vs “Poor” (fair/poor).
 - Predictors (19 features): age group, sex, race/ethnicity, education, income, employment, exercise, smoking, heavy drinking, diabetes, heart attack, stroke, cancer, BMI category, depression, days of poor mental health, healthcare provider, and checkup regularity.
