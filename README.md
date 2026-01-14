@@ -11,7 +11,7 @@ This repository showcases an interpretable machine learning pipeline for predict
 
 The work emphasizes the importance of **behavioral and socio-economic** factors in shaping perceived health and contributes to the intersection of **data science**, **public health**, and **behavioral analytics**.
 
----
+
 
 ## Key contributions
 
@@ -21,7 +21,7 @@ The work emphasizes the importance of **behavioral and socio-economic** factors 
 - Interpretable modeling: logistic regression and a stacked ensemble achieve AUC ≈ 0.81–0.82 with balanced F1 across both health classes.
 - Research-ready code: implemented in Python 3.11 with scikit-learn, XGBoost, imbalanced-learn, and SHAP for explainability.
 
----
+
 
 ## Repository structure
 
