@@ -42,7 +42,7 @@ Data & target:
 - Predictors (19 features): age group, sex, race/ethnicity, education, income, employment, exercise, smoking, heavy drinking, diabetes, heart attack, stroke, cancer, BMI category, depression, days of poor mental health, healthcare provider, and checkup regularity.
 
 **Handling class imbalance:**
----
+
 Class distribution is skewed (≈76% good vs 24% poor health), so multiple strategies are evaluated.
 Implemented in the notebook:
 - SMOTE oversampling.
