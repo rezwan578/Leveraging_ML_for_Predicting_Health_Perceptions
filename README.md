@@ -1,7 +1,7 @@
 # Leveraging Machine Learning for Predicting Health Perceptions: A Behavioral Analytics Approach Using U.S. National Survey Data    
  
 ***Published in the 25th International Conference on Electronic Business (ICEB 2025),  affiliated  with  the 
-Association  for  Information  Systems  (AIS)***
+Association  for  Information  Systems  (AIS). Access at - https://aisel.aisnet.org/iceb2025/1/***
 
 
 
